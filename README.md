@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Check how App works
+
+This project is available at https://denis-ukraintsev.github.io/Tile-Game
+
 ## Available Scripts
 
 In the project directory, you can run:
